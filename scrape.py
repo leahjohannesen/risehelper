@@ -6,7 +6,7 @@ import re
 import time
 
 BASE_URL = 'https://mhrise.kiranico.com/data/monsters/{}'
-CSV_PATH = 'data/{}'
+CSV_PATH = 'data/{}.csv'
 TABLE_REF = {
     'hitzones': (0, ['monster', 'parts', 'state', 'sever', 'blunt', 'projectile', 'fire', 'water', 'ice', 'thunder', 'dragon', 'stun']),
     # 'ailments': 3,
