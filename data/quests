@@ -1,0 +1,544 @@
+,monster,qtype,qlevel,qname,zone,rate
+0,rathian,V,4,the queen's procession,6,60
+1,rathian,V,4,the queen's procession,10,30
+2,rathian,V,4,the queen's procession,3,10
+3,rathian,H,2,the path to royalty,11,60
+4,rathian,H,2,the path to royalty,9,30
+5,rathian,H,2,the path to royalty,13,10
+6,rathian,H,5,charmed by a queen,7,60
+7,rathian,H,5,charmed by a queen,4,30
+8,rathian,H,5,charmed by a queen,11,10
+9,rathian,H,5,learn the lance,6,60
+10,rathian,H,5,learn the lance,10,30
+11,rathian,H,5,learn the lance,3,10
+12,rathian,H,8,a blaze among beasts,5,60
+13,rathian,H,8,a blaze among beasts,14,30
+14,rathian,H,8,a blaze among beasts,12,10
+15,rathian,E,8,princesses' banquet,1,100
+16,rathian,V,4,special license test 1,4,70
+17,rathian,V,4,special license test 1,11,30
+18,rathian,V,4,off your rocker,14,100
+19,rathian,V,5,nocturnal tracker,10,100
+20,rathian,H,2,the flooding flooded forest,11,100
+21,rathian,H,2,fried and baptized,11,60
+22,rathian,H,2,fried and baptized,9,30
+23,rathian,H,2,fried and baptized,13,10
+24,rathian,H,3,wavering moon and thunder,11,100
+25,rathian,H,3,hellfire,5,100
+26,rathian,H,6,dissect the dual blades,10,60
+27,rathian,H,6,dissect the dual blades,3,30
+28,rathian,H,6,dissect the dual blades,5,10
+29,rathian,H,7,evil afoot,14,100
+30,rathian,E,7,beast of the shadows,7,100
+31,rathian,E,8,tempest in the desert,3,100
+32,rathian,E,7,kunai ask you a favor?,10,60
+33,rathian,E,7,kunai ask you a favor?,3,30
+34,rathian,E,7,kunai ask you a favor?,5,10
+35,rathian,V,5,comeuppance,4,100
+36,rathian,H,2,so muddy hardheaded!,10,100
+37,rathian,H,5,rotten fruit,9,100
+38,rathian,H,5,grasp the great sword,11,100
+39,rathian,H,6,skies are gray,12,100
+40,rathian,H,7,seared situation,5,100
+41,rathian,H,5,rise above the mud,3,100
+42,rathian,H,5,bowled over,3,100
+43,rathian,H,5,"go away, pukei!",4,100
+44,rathian,H,6,a somniferous elegy,4,100
+45,rathian,H,6,a bewitching dance,4,100
+46,rathian,H,7,a resounding roar,3,100
+47,rathian,H,7,a quartet of horns,3,100
+48,rathian,E,5,soaring desire,9,100
+49,rathian,H,5,miner problem,6,60
+50,rathian,H,5,miner problem,10,30
+51,rathian,H,5,miner problem,3,10
+52,rathian,H,5,honing your hammer,6,60
+53,rathian,H,5,honing your hammer,10,30
+54,rathian,H,5,honing your hammer,3,10
+55,rathian,H,6,"skies flash, clouds boom",7,50
+56,rathian,H,6,"skies flash, clouds boom",4,50
+57,rathian,H,7,omnidirectional threats,5,50
+58,rathian,H,7,omnidirectional threats,14,50
+59,rathian,H,8,advanced: the fallen comet,5,50
+60,rathian,H,8,advanced: the fallen comet,14,50
+61,rathian,E,7,memories of that day,7,60
+62,rathian,E,7,memories of that day,4,30
+63,rathian,E,7,memories of that day,11,10
+64,rathian,H,7,a muddy invitation,11,60
+65,rathian,H,7,a muddy invitation,9,30
+66,rathian,H,7,a muddy invitation,13,10
+67,rathian,E,8,haste makes waste,11,60
+68,rathian,E,8,haste makes waste,9,30
+69,rathian,E,8,haste makes waste,13,10
+70,rathian,V,4,the queen's procession,6,60
+71,rathian,V,4,the queen's procession,10,30
+72,rathian,V,4,the queen's procession,3,10
+73,rathian,H,2,the path to royalty,11,60
+74,rathian,H,2,the path to royalty,9,30
+75,rathian,H,2,the path to royalty,13,10
+76,rathian,H,5,charmed by a queen,7,60
+77,rathian,H,5,charmed by a queen,4,30
+78,rathian,H,5,charmed by a queen,11,10
+79,rathian,H,5,learn the lance,6,60
+80,rathian,H,5,learn the lance,10,30
+81,rathian,H,5,learn the lance,3,10
+82,rathian,H,8,a blaze among beasts,5,60
+83,rathian,H,8,a blaze among beasts,14,30
+84,rathian,H,8,a blaze among beasts,12,10
+85,rathian,E,8,princesses' banquet,1,100
+86,rathian,V,4,special license test 1,4,70
+87,rathian,V,4,special license test 1,11,30
+88,rathian,V,4,off your rocker,14,100
+89,rathian,V,5,nocturnal tracker,10,100
+90,rathian,H,2,the flooding flooded forest,11,100
+91,rathian,H,2,fried and baptized,11,60
+92,rathian,H,2,fried and baptized,9,30
+93,rathian,H,2,fried and baptized,13,10
+94,rathian,H,3,wavering moon and thunder,11,100
+95,rathian,H,3,hellfire,5,100
+96,rathian,H,6,dissect the dual blades,10,60
+97,rathian,H,6,dissect the dual blades,3,30
+98,rathian,H,6,dissect the dual blades,5,10
+99,rathian,H,7,evil afoot,14,100
+100,rathian,E,7,beast of the shadows,7,100
+101,rathian,E,8,tempest in the desert,3,100
+102,rathian,E,7,kunai ask you a favor?,10,60
+103,rathian,E,7,kunai ask you a favor?,3,30
+104,rathian,E,7,kunai ask you a favor?,5,10
+105,rathian,V,5,comeuppance,4,100
+106,rathian,H,2,so muddy hardheaded!,10,100
+107,rathian,H,5,rotten fruit,9,100
+108,rathian,H,5,grasp the great sword,11,100
+109,rathian,H,6,skies are gray,12,100
+110,rathian,H,7,seared situation,5,100
+111,rathian,H,5,rise above the mud,3,100
+112,rathian,H,5,bowled over,3,100
+113,rathian,H,5,"go away, pukei!",4,100
+114,rathian,H,6,a somniferous elegy,4,100
+115,rathian,H,6,a bewitching dance,4,100
+116,rathian,H,7,a resounding roar,3,100
+117,rathian,H,7,a quartet of horns,3,100
+118,rathian,E,5,soaring desire,9,100
+119,rathian,H,5,miner problem,6,60
+120,rathian,H,5,miner problem,10,30
+121,rathian,H,5,miner problem,3,10
+122,rathian,H,5,honing your hammer,6,60
+123,rathian,H,5,honing your hammer,10,30
+124,rathian,H,5,honing your hammer,3,10
+125,rathian,H,6,"skies flash, clouds boom",7,50
+126,rathian,H,6,"skies flash, clouds boom",4,50
+127,rathian,H,7,omnidirectional threats,5,50
+128,rathian,H,7,omnidirectional threats,14,50
+129,rathian,H,8,advanced: the fallen comet,5,50
+130,rathian,H,8,advanced: the fallen comet,14,50
+131,rathian,E,7,memories of that day,7,60
+132,rathian,E,7,memories of that day,4,30
+133,rathian,E,7,memories of that day,11,10
+134,rathian,H,7,a muddy invitation,11,60
+135,rathian,H,7,a muddy invitation,9,30
+136,rathian,H,7,a muddy invitation,13,10
+137,rathian,E,8,haste makes waste,11,60
+138,rathian,E,8,haste makes waste,9,30
+139,rathian,E,8,haste makes waste,13,10
+140,rathian,V,4,the queen's procession,6,60
+141,rathian,V,4,the queen's procession,10,30
+142,rathian,V,4,the queen's procession,3,10
+143,rathian,H,2,the path to royalty,11,60
+144,rathian,H,2,the path to royalty,9,30
+145,rathian,H,2,the path to royalty,13,10
+146,rathian,H,5,charmed by a queen,7,60
+147,rathian,H,5,charmed by a queen,4,30
+148,rathian,H,5,charmed by a queen,11,10
+149,rathian,H,5,learn the lance,6,60
+150,rathian,H,5,learn the lance,10,30
+151,rathian,H,5,learn the lance,3,10
+152,rathian,H,8,a blaze among beasts,5,60
+153,rathian,H,8,a blaze among beasts,14,30
+154,rathian,H,8,a blaze among beasts,12,10
+155,rathian,E,8,princesses' banquet,1,100
+156,rathian,V,4,special license test 1,4,70
+157,rathian,V,4,special license test 1,11,30
+158,rathian,V,4,off your rocker,14,100
+159,rathian,V,5,nocturnal tracker,10,100
+160,rathian,H,2,the flooding flooded forest,11,100
+161,rathian,H,2,fried and baptized,11,60
+162,rathian,H,2,fried and baptized,9,30
+163,rathian,H,2,fried and baptized,13,10
+164,rathian,H,3,wavering moon and thunder,11,100
+165,rathian,H,3,hellfire,5,100
+166,rathian,H,6,dissect the dual blades,10,60
+167,rathian,H,6,dissect the dual blades,3,30
+168,rathian,H,6,dissect the dual blades,5,10
+169,rathian,H,7,evil afoot,14,100
+170,rathian,E,7,beast of the shadows,7,100
+171,rathian,E,8,tempest in the desert,3,100
+172,rathian,E,7,kunai ask you a favor?,10,60
+173,rathian,E,7,kunai ask you a favor?,3,30
+174,rathian,E,7,kunai ask you a favor?,5,10
+175,rathian,V,5,comeuppance,4,100
+176,rathian,H,2,so muddy hardheaded!,10,100
+177,rathian,H,5,rotten fruit,9,100
+178,rathian,H,5,grasp the great sword,11,100
+179,rathian,H,6,skies are gray,12,100
+180,rathian,H,7,seared situation,5,100
+181,rathian,H,5,rise above the mud,3,100
+182,rathian,H,5,bowled over,3,100
+183,rathian,H,5,"go away, pukei!",4,100
+184,rathian,H,6,a somniferous elegy,4,100
+185,rathian,H,6,a bewitching dance,4,100
+186,rathian,H,7,a resounding roar,3,100
+187,rathian,H,7,a quartet of horns,3,100
+188,rathian,E,5,soaring desire,9,100
+189,rathian,H,5,miner problem,6,60
+190,rathian,H,5,miner problem,10,30
+191,rathian,H,5,miner problem,3,10
+192,rathian,H,5,honing your hammer,6,60
+193,rathian,H,5,honing your hammer,10,30
+194,rathian,H,5,honing your hammer,3,10
+195,rathian,H,6,"skies flash, clouds boom",7,50
+196,rathian,H,6,"skies flash, clouds boom",4,50
+197,rathian,H,7,omnidirectional threats,5,50
+198,rathian,H,7,omnidirectional threats,14,50
+199,rathian,H,8,advanced: the fallen comet,5,50
+200,rathian,H,8,advanced: the fallen comet,14,50
+201,rathian,E,7,memories of that day,7,60
+202,rathian,E,7,memories of that day,4,30
+203,rathian,E,7,memories of that day,11,10
+204,rathian,H,7,a muddy invitation,11,60
+205,rathian,H,7,a muddy invitation,9,30
+206,rathian,H,7,a muddy invitation,13,10
+207,rathian,E,8,haste makes waste,11,60
+208,rathian,E,8,haste makes waste,9,30
+209,rathian,E,8,haste makes waste,13,10
+210,rathalos,V,5,rathalos alert!,12,60
+211,rathalos,V,5,rathalos alert!,14,30
+212,rathalos,V,5,rathalos alert!,11,10
+213,rathalos,V,6,special license test 3,11,60
+214,rathalos,V,6,special license test 3,13,30
+215,rathalos,V,6,special license test 3,8,10
+216,rathalos,H,3,champion of the caverns,12,60
+217,rathalos,H,3,champion of the caverns,14,30
+218,rathalos,H,3,champion of the caverns,11,10
+219,rathalos,H,6,red skies at night,12,60
+220,rathalos,H,6,red skies at night,14,30
+221,rathalos,H,6,red skies at night,11,10
+222,rathalos,V,5,wind speed wyvern,11,100
+223,rathalos,V,6,"king of the sky, bane of the land",12,70
+224,rathalos,V,6,"king of the sky, bane of the land",13,30
+225,rathalos,H,3,twilit twin stars,11,100
+226,rathalos,H,6,"skies flash, clouds boom",11,100
+227,rathalos,H,6,a somniferous elegy,12,100
+228,rathalos,H,7,can't kill it with fire,12,100
+229,rathalos,H,7,seared situation,12,70
+230,rathalos,H,7,seared situation,14,30
+231,rathalos,H,8,advanced: proof of power,1,100
+232,rathalos,H,8,master utsushi's challenge part 5,12,70
+233,rathalos,H,8,master utsushi's challenge part 5,13,30
+234,rathalos,E,8,blazin' soul of a warrior,12,100
+235,rathalos,E,8,apex mizutsune emergency,11,100
+236,rathalos,V,5,the hottest around,14,100
+237,rathalos,H,8,ancient illusion,8,100
+238,rathalos,H,8,return of the bazelgeuse,14,100
+239,rathalos,E,8,sf: ultimate promotion exam,13,100
+240,rathalos,E,6,knight in shattered armor,14,100
+241,rathalos,E,7,monster maniacs,14,100
+242,rathalos,H,3,zigzagging zapper,11,100
+243,rathalos,H,7,omnidirectional threats,12,100
+244,rathalos,E,6,"out of sight, out of mind's eye",12,100
+245,rathalos,E,7,beast of the shadows,11,100
+246,rathalos,H,7,clad in hellfire,11,50
+247,rathalos,H,7,clad in hellfire,13,50
+248,rathalos,H,8,the evil star from beyond,12,60
+249,rathalos,H,8,the evil star from beyond,14,30
+250,rathalos,H,8,the evil star from beyond,11,10
+251,rathalos,H,8,return of the bazelgeuse,11,50
+252,rathalos,H,8,return of the bazelgeuse,13,50
+253,rathalos,E,8,apex rathian emergency,12,60
+254,rathalos,E,8,apex rathian emergency,14,30
+255,rathalos,E,8,apex rathian emergency,11,10
+256,rathalos,V,5,rathalos alert!,12,60
+257,rathalos,V,5,rathalos alert!,14,30
+258,rathalos,V,5,rathalos alert!,11,10
+259,rathalos,V,6,special license test 3,11,60
+260,rathalos,V,6,special license test 3,13,30
+261,rathalos,V,6,special license test 3,8,10
+262,rathalos,H,3,champion of the caverns,12,60
+263,rathalos,H,3,champion of the caverns,14,30
+264,rathalos,H,3,champion of the caverns,11,10
+265,rathalos,H,6,red skies at night,12,60
+266,rathalos,H,6,red skies at night,14,30
+267,rathalos,H,6,red skies at night,11,10
+268,rathalos,V,5,wind speed wyvern,11,100
+269,rathalos,V,6,"king of the sky, bane of the land",12,70
+270,rathalos,V,6,"king of the sky, bane of the land",13,30
+271,rathalos,H,3,twilit twin stars,11,100
+272,rathalos,H,6,"skies flash, clouds boom",11,100
+273,rathalos,H,6,a somniferous elegy,12,100
+274,rathalos,H,7,can't kill it with fire,12,100
+275,rathalos,H,7,seared situation,12,70
+276,rathalos,H,7,seared situation,14,30
+277,rathalos,H,8,advanced: proof of power,1,100
+278,rathalos,H,8,master utsushi's challenge part 5,12,70
+279,rathalos,H,8,master utsushi's challenge part 5,13,30
+280,rathalos,E,8,blazin' soul of a warrior,12,100
+281,rathalos,E,8,apex mizutsune emergency,11,100
+282,rathalos,V,5,the hottest around,14,100
+283,rathalos,H,8,ancient illusion,8,100
+284,rathalos,H,8,return of the bazelgeuse,14,100
+285,rathalos,E,8,sf: ultimate promotion exam,13,100
+286,rathalos,E,6,knight in shattered armor,14,100
+287,rathalos,E,7,monster maniacs,14,100
+288,rathalos,H,3,zigzagging zapper,11,100
+289,rathalos,H,7,omnidirectional threats,12,100
+290,rathalos,E,6,"out of sight, out of mind's eye",12,100
+291,rathalos,E,7,beast of the shadows,11,100
+292,rathalos,H,7,clad in hellfire,11,50
+293,rathalos,H,7,clad in hellfire,13,50
+294,rathalos,H,8,the evil star from beyond,12,60
+295,rathalos,H,8,the evil star from beyond,14,30
+296,rathalos,H,8,the evil star from beyond,11,10
+297,rathalos,H,8,return of the bazelgeuse,11,50
+298,rathalos,H,8,return of the bazelgeuse,13,50
+299,rathalos,E,8,apex rathian emergency,12,60
+300,rathalos,E,8,apex rathian emergency,14,30
+301,rathalos,E,8,apex rathian emergency,11,10
+302,rathalos,V,5,rathalos alert!,12,60
+303,rathalos,V,5,rathalos alert!,14,30
+304,rathalos,V,5,rathalos alert!,11,10
+305,rathalos,V,6,special license test 3,11,60
+306,rathalos,V,6,special license test 3,13,30
+307,rathalos,V,6,special license test 3,8,10
+308,rathalos,H,3,champion of the caverns,12,60
+309,rathalos,H,3,champion of the caverns,14,30
+310,rathalos,H,3,champion of the caverns,11,10
+311,rathalos,H,6,red skies at night,12,60
+312,rathalos,H,6,red skies at night,14,30
+313,rathalos,H,6,red skies at night,11,10
+314,rathalos,V,5,wind speed wyvern,11,100
+315,rathalos,V,6,"king of the sky, bane of the land",12,70
+316,rathalos,V,6,"king of the sky, bane of the land",13,30
+317,rathalos,H,3,twilit twin stars,11,100
+318,rathalos,H,6,"skies flash, clouds boom",11,100
+319,rathalos,H,6,a somniferous elegy,12,100
+320,rathalos,H,7,can't kill it with fire,12,100
+321,rathalos,H,7,seared situation,12,70
+322,rathalos,H,7,seared situation,14,30
+323,rathalos,H,8,advanced: proof of power,1,100
+324,rathalos,H,8,master utsushi's challenge part 5,12,70
+325,rathalos,H,8,master utsushi's challenge part 5,13,30
+326,rathalos,E,8,blazin' soul of a warrior,12,100
+327,rathalos,E,8,apex mizutsune emergency,11,100
+328,rathalos,V,5,the hottest around,14,100
+329,rathalos,H,8,ancient illusion,8,100
+330,rathalos,H,8,return of the bazelgeuse,14,100
+331,rathalos,E,8,sf: ultimate promotion exam,13,100
+332,rathalos,E,6,knight in shattered armor,14,100
+333,rathalos,E,7,monster maniacs,14,100
+334,rathalos,H,3,zigzagging zapper,11,100
+335,rathalos,H,7,omnidirectional threats,12,100
+336,rathalos,E,6,"out of sight, out of mind's eye",12,100
+337,rathalos,E,7,beast of the shadows,11,100
+338,rathalos,H,7,clad in hellfire,11,50
+339,rathalos,H,7,clad in hellfire,13,50
+340,rathalos,H,8,the evil star from beyond,12,60
+341,rathalos,H,8,the evil star from beyond,14,30
+342,rathalos,H,8,the evil star from beyond,11,10
+343,rathalos,H,8,return of the bazelgeuse,11,50
+344,rathalos,H,8,return of the bazelgeuse,13,50
+345,rathalos,E,8,apex rathian emergency,12,60
+346,rathalos,E,8,apex rathian emergency,14,30
+347,rathalos,E,8,apex rathian emergency,11,10
+348,khezu,V,3,faceless foe,12,60
+349,khezu,V,3,faceless foe,2,30
+350,khezu,V,3,faceless foe,5,10
+351,khezu,H,2,a pale shadow,12,60
+352,khezu,H,2,a pale shadow,2,30
+353,khezu,H,2,a pale shadow,5,10
+354,khezu,H,4,night of the khezu,12,60
+355,khezu,H,4,night of the khezu,2,30
+356,khezu,H,4,night of the khezu,5,10
+357,khezu,H,5,shadows over the frost,12,60
+358,khezu,H,5,shadows over the frost,2,30
+359,khezu,H,5,shadows over the frost,5,10
+360,khezu,V,4,raging white-out,12,100
+361,khezu,V,4,"so hot, it melts iron",6,100
+362,khezu,V,5,bzzzzz or zzzzzzzz,12,60
+363,khezu,V,5,bzzzzz or zzzzzzzz,2,30
+364,khezu,V,5,bzzzzz or zzzzzzzz,5,10
+365,khezu,H,4,study the switch axe,12,60
+366,khezu,H,4,study the switch axe,2,30
+367,khezu,H,4,study the switch axe,5,10
+368,khezu,H,7,omnidirectional threats,6,60
+369,khezu,H,7,omnidirectional threats,7,30
+370,khezu,H,7,omnidirectional threats,2,10
+371,khezu,E,7,zin and yang,12,100
+372,khezu,V,4,off your rocker,6,100
+373,khezu,H,2,bouncing brawlers,12,100
+374,khezu,H,4,didn't get the memo,2,100
+375,khezu,H,6,grasp the gunlance,2,100
+376,khezu,H,3,a friend in need,6,100
+377,khezu,H,4,even cute things have fangs,2,100
+378,khezu,H,4,dango duty,12,100
+379,khezu,H,4,study the sword & shield,2,100
+380,khezu,H,6,closer than it appears,7,100
+381,khezu,E,4,"dancing parasol, snowy breeze",12,100
+382,khezu,H,6,the lava caverns sweep,6,100
+383,khezu,H,4,the frost islands arena,12,60
+384,khezu,H,4,the frost islands arena,2,30
+385,khezu,H,4,the frost islands arena,5,10
+386,khezu,H,6,a somniferous elegy,6,50
+387,khezu,H,6,a somniferous elegy,2,50
+388,khezu,H,7,seared situation,6,50
+389,khezu,H,7,seared situation,2,50
+390,khezu,E,8,an icy blade so bright,12,60
+391,khezu,E,8,an icy blade so bright,2,30
+392,khezu,E,8,an icy blade so bright,5,10
+393,khezu,E,8,boomy dango,12,60
+394,khezu,E,8,boomy dango,2,30
+395,khezu,E,8,boomy dango,5,10
+396,khezu,H,4,even cute things have fangs,7,70
+397,khezu,H,4,even cute things have fangs,11,30
+398,khezu,H,6,sharpening amber fangs,12,60
+399,khezu,H,6,sharpening amber fangs,2,30
+400,khezu,H,6,sharpening amber fangs,5,10
+401,khezu,E,6,"out of sight, out of mind's eye",6,50
+402,khezu,E,6,"out of sight, out of mind's eye",2,50
+403,khezu,V,3,faceless foe,12,60
+404,khezu,V,3,faceless foe,2,30
+405,khezu,V,3,faceless foe,5,10
+406,khezu,H,2,a pale shadow,12,60
+407,khezu,H,2,a pale shadow,2,30
+408,khezu,H,2,a pale shadow,5,10
+409,khezu,H,4,night of the khezu,12,60
+410,khezu,H,4,night of the khezu,2,30
+411,khezu,H,4,night of the khezu,5,10
+412,khezu,H,5,shadows over the frost,12,60
+413,khezu,H,5,shadows over the frost,2,30
+414,khezu,H,5,shadows over the frost,5,10
+415,khezu,V,4,raging white-out,12,100
+416,khezu,V,4,"so hot, it melts iron",6,100
+417,khezu,V,5,bzzzzz or zzzzzzzz,12,60
+418,khezu,V,5,bzzzzz or zzzzzzzz,2,30
+419,khezu,V,5,bzzzzz or zzzzzzzz,5,10
+420,khezu,H,4,study the switch axe,12,60
+421,khezu,H,4,study the switch axe,2,30
+422,khezu,H,4,study the switch axe,5,10
+423,khezu,H,7,omnidirectional threats,6,60
+424,khezu,H,7,omnidirectional threats,7,30
+425,khezu,H,7,omnidirectional threats,2,10
+426,khezu,E,7,zin and yang,12,100
+427,khezu,V,4,off your rocker,6,100
+428,khezu,H,2,bouncing brawlers,12,100
+429,khezu,H,4,didn't get the memo,2,100
+430,khezu,H,6,grasp the gunlance,2,100
+431,khezu,H,3,a friend in need,6,100
+432,khezu,H,4,even cute things have fangs,2,100
+433,khezu,H,4,dango duty,12,100
+434,khezu,H,4,study the sword & shield,2,100
+435,khezu,H,6,closer than it appears,7,100
+436,khezu,E,4,"dancing parasol, snowy breeze",12,100
+437,khezu,H,6,the lava caverns sweep,6,100
+438,khezu,H,4,the frost islands arena,12,60
+439,khezu,H,4,the frost islands arena,2,30
+440,khezu,H,4,the frost islands arena,5,10
+441,khezu,H,6,a somniferous elegy,6,50
+442,khezu,H,6,a somniferous elegy,2,50
+443,khezu,H,7,seared situation,6,50
+444,khezu,H,7,seared situation,2,50
+445,khezu,E,8,an icy blade so bright,12,60
+446,khezu,E,8,an icy blade so bright,2,30
+447,khezu,E,8,an icy blade so bright,5,10
+448,khezu,E,8,boomy dango,12,60
+449,khezu,E,8,boomy dango,2,30
+450,khezu,E,8,boomy dango,5,10
+451,khezu,H,4,even cute things have fangs,7,70
+452,khezu,H,4,even cute things have fangs,11,30
+453,khezu,H,6,sharpening amber fangs,12,60
+454,khezu,H,6,sharpening amber fangs,2,30
+455,khezu,H,6,sharpening amber fangs,5,10
+456,khezu,E,6,"out of sight, out of mind's eye",6,50
+457,khezu,E,6,"out of sight, out of mind's eye",2,50
+458,khezu,V,3,faceless foe,12,60
+459,khezu,V,3,faceless foe,2,30
+460,khezu,V,3,faceless foe,5,10
+461,khezu,H,2,a pale shadow,12,60
+462,khezu,H,2,a pale shadow,2,30
+463,khezu,H,2,a pale shadow,5,10
+464,khezu,H,4,night of the khezu,12,60
+465,khezu,H,4,night of the khezu,2,30
+466,khezu,H,4,night of the khezu,5,10
+467,khezu,H,5,shadows over the frost,12,60
+468,khezu,H,5,shadows over the frost,2,30
+469,khezu,H,5,shadows over the frost,5,10
+470,khezu,V,4,raging white-out,12,100
+471,khezu,V,4,"so hot, it melts iron",6,100
+472,khezu,V,5,bzzzzz or zzzzzzzz,12,60
+473,khezu,V,5,bzzzzz or zzzzzzzz,2,30
+474,khezu,V,5,bzzzzz or zzzzzzzz,5,10
+475,khezu,H,4,study the switch axe,12,60
+476,khezu,H,4,study the switch axe,2,30
+477,khezu,H,4,study the switch axe,5,10
+478,khezu,H,7,omnidirectional threats,6,60
+479,khezu,H,7,omnidirectional threats,7,30
+480,khezu,H,7,omnidirectional threats,2,10
+481,khezu,E,7,zin and yang,12,100
+482,khezu,V,4,off your rocker,6,100
+483,khezu,H,2,bouncing brawlers,12,100
+484,khezu,H,4,didn't get the memo,2,100
+485,khezu,H,6,grasp the gunlance,2,100
+486,khezu,H,3,a friend in need,6,100
+487,khezu,H,4,even cute things have fangs,2,100
+488,khezu,H,4,dango duty,12,100
+489,khezu,H,4,study the sword & shield,2,100
+490,khezu,H,6,closer than it appears,7,100
+491,khezu,E,4,"dancing parasol, snowy breeze",12,100
+492,khezu,H,6,the lava caverns sweep,6,100
+493,khezu,H,4,the frost islands arena,12,60
+494,khezu,H,4,the frost islands arena,2,30
+495,khezu,H,4,the frost islands arena,5,10
+496,khezu,H,6,a somniferous elegy,6,50
+497,khezu,H,6,a somniferous elegy,2,50
+498,khezu,H,7,seared situation,6,50
+499,khezu,H,7,seared situation,2,50
+500,khezu,E,8,an icy blade so bright,12,60
+501,khezu,E,8,an icy blade so bright,2,30
+502,khezu,E,8,an icy blade so bright,5,10
+503,khezu,E,8,boomy dango,12,60
+504,khezu,E,8,boomy dango,2,30
+505,khezu,E,8,boomy dango,5,10
+506,khezu,H,4,even cute things have fangs,7,70
+507,khezu,H,4,even cute things have fangs,11,30
+508,khezu,H,6,sharpening amber fangs,12,60
+509,khezu,H,6,sharpening amber fangs,2,30
+510,khezu,H,6,sharpening amber fangs,5,10
+511,khezu,E,6,"out of sight, out of mind's eye",6,50
+512,khezu,E,6,"out of sight, out of mind's eye",2,50
+513,apex rathian,H,8,the graceful apex rathian,11,60
+514,apex rathian,H,8,the graceful apex rathian,9,30
+515,apex rathian,H,8,the graceful apex rathian,13,10
+516,apex rathian,E,8,apex rathian emergency,5,60
+517,apex rathian,E,8,apex rathian emergency,14,30
+518,apex rathian,E,8,apex rathian emergency,12,10
+519,apex rathian,E,8,trouble in paradise,7,60
+520,apex rathian,E,8,trouble in paradise,4,30
+521,apex rathian,E,8,trouble in paradise,11,10
+522,apex rathian,E,8,heart of an apex,1,100
+523,apex rathian,H,8,the graceful apex rathian,11,60
+524,apex rathian,H,8,the graceful apex rathian,9,30
+525,apex rathian,H,8,the graceful apex rathian,13,10
+526,apex rathian,E,8,apex rathian emergency,5,60
+527,apex rathian,E,8,apex rathian emergency,14,30
+528,apex rathian,E,8,apex rathian emergency,12,10
+529,apex rathian,E,8,trouble in paradise,7,60
+530,apex rathian,E,8,trouble in paradise,4,30
+531,apex rathian,E,8,trouble in paradise,11,10
+532,apex rathian,E,8,heart of an apex,1,100
+533,apex rathian,H,8,the graceful apex rathian,11,60
+534,apex rathian,H,8,the graceful apex rathian,9,30
+535,apex rathian,H,8,the graceful apex rathian,13,10
+536,apex rathian,E,8,apex rathian emergency,5,60
+537,apex rathian,E,8,apex rathian emergency,14,30
+538,apex rathian,E,8,apex rathian emergency,12,10
+539,apex rathian,E,8,trouble in paradise,7,60
+540,apex rathian,E,8,trouble in paradise,4,30
+541,apex rathian,E,8,trouble in paradise,11,10
+542,apex rathian,E,8,heart of an apex,1,100

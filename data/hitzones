@@ -1,0 +1,35 @@
+,monster,parts,state,sever,blunt,projectile,fire,water,ice,thunder,dragon,stun
+0,rathian,head,0,70,75,65,0,15,15,20,30,100
+1,rathian,neck,0,40,45,35,0,0,0,5,15,0
+2,rathian,body,0,35,30,25,0,5,5,10,20,0
+3,rathian,back,0,35,30,25,0,5,5,10,20,0
+4,rathian,wing,0,45,45,35,0,10,10,15,25,0
+5,rathian,leg,0,40,40,35,0,0,0,5,15,0
+6,rathian,tail,0,45,40,35,0,5,5,10,20,0
+7,rathalos,head,0,65,70,60,0,15,15,20,30,100
+8,rathalos,neck,0,35,40,30,0,5,5,10,20,0
+9,rathalos,back,0,25,25,20,0,5,5,10,20,0
+10,rathalos,abdomen,0,25,25,20,0,5,5,10,20,0
+11,rathalos,tail,0,45,40,35,0,5,5,10,20,0
+12,rathalos,wing,0,50,45,40,0,10,10,15,25,0
+13,rathalos,leg,0,35,35,30,0,0,0,5,15,0
+14,khezu,head,0,75,70,80,30,5,5,0,5,100
+15,khezu,neck,0,75,50,50,25,5,5,0,5,0
+16,khezu,torso,0,45,45,25,25,5,5,0,5,0
+17,khezu,tail,0,20,20,30,20,5,5,0,5,0
+18,khezu,wing,0,25,25,25,20,5,5,0,5,0
+19,khezu,left leg,0,36,20,35,15,5,5,0,5,0
+20,khezu,left leg,1,46,30,45,17,5,5,0,5,0
+21,khezu,right leg,0,36,20,35,15,5,5,0,5,0
+22,khezu,right leg,1,46,30,45,17,5,5,0,5,0
+23,apex rathian,head,0,60,65,50,0,10,10,10,20,100
+24,apex rathian,head,1,65,70,55,0,10,10,10,25,100
+25,apex rathian,neck,0,40,40,30,5,10,10,10,20,0
+26,apex rathian,body,0,24,24,20,0,5,5,15,15,0
+27,apex rathian,back,0,20,20,15,5,10,10,20,25,0
+28,apex rathian,back,1,38,38,45,5,10,10,20,25,0
+29,apex rathian,wing,0,35,35,30,0,10,10,20,25,0
+30,apex rathian,leg,0,24,24,20,0,5,5,10,15,0
+31,apex rathian,tail,0,40,35,30,5,5,5,10,15,0
+32,apex rathian,tail,1,45,40,35,5,5,5,10,20,0
+33,apex rathian,tail,2,50,45,45,0,5,5,10,20,0
